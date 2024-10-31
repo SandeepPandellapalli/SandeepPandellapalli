@@ -1,4 +1,5 @@
 - 👋 Hi, I’m **@SandeepPandellapalli**
+- 😄 **Pronouns:** He/Him
 - 👀 **I’m interested in:**
    - Applying modern **Data Science** techniques to tackle real-world challenges
 - 💼 **Professional Experience:**
@@ -13,8 +14,6 @@
 - 📫 **Reach me**:
    - **Email**: [sandeep.pandellapalli@gmail.com](mailto:sandeep.pandellapalli@gmail.com)
    - **LinkedIn**: [linkedin.com/in/prabhakarasandeep](https://linkedin.com/in/prabhakarasandeep)
-😄 **Pronouns:** He/Him
-- ⚡ Fun fact: ...
 
 <!---
 SandeepPandellapalli/SandeepPandellapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
