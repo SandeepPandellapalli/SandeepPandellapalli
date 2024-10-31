@@ -1,6 +1,12 @@
 - 👋 Hi, I’m **@SandeepPandellapalli**..
-- 👀 **I’m interested in:**
--- Learning and implementing advances in **Machine Learning** and **Data Engineering**
+👀 **I’m interested in:**
+   - Learning and implementing advances in **Machine Learning** and **Data Engineering**
+   - Leveraging **NLP** and **Data Science** for impactful business insights and decision-making
+   - Collaborating on projects involving:
+     - **Real-Time Data Processing**
+     - **Data Pipeline Architecture**
+     - **Big Data Technologies**
+- Learning and implementing advances in **Machine Learning** and **Data Engineering**
 - Leveraging **NLP** and **Data Science** for impactful business insights and decision-making
 - Collaborating on projects involving **Real-Time Data Processing**, **Data Pipeline Architecture**, and **Big Data Technologies**
 - 💞️ I’m looking to collaborate on ...
