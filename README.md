@@ -2,7 +2,6 @@
 - 👀 **I’m interested in:**
    - Learning and implementing advances in **Machine Learning** and **Data Engineering**
    - Leveraging **NLP** and **Data Science** for impactful business insights and decision-making
-   - 
 - 💼 **Professional Experience:**
    - **Consultant** @ **Business Intelligence Group**
    - **Research Scientist** @ **Gies College of Business**
